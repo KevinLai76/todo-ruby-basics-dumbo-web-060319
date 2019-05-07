@@ -4,8 +4,8 @@ def division(num1, num2)
   return quotient
 end
 
-def assign_variable(value = "Bob")
-  puts value  
+def assign_variable(value)
+  name = value  
 end
 
 def argue
